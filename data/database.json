@@ -1,0 +1,457 @@
+{
+  "products": [
+    {
+      "id": "prod-1m-nitro-id",
+      "sku": "FM-NITRO-1M-ID",
+      "name": "1M NITRO ID",
+      "slug": "1m-nitro-id",
+      "tags": [
+        "Discord",
+        "Nitro",
+        "Boost",
+        "ID"
+      ],
+      "price": 38.97,
+      "stock": 24,
+      "rating": 5,
+      "status": "ACTIVE",
+      "category": "☆ Disocrd Stuf",
+      "imageUrl": "/images/nitro-boost.svg",
+      "createdAt": "2026-09-25T05:31:57.300Z",
+      "updatedAt": "2026-09-27T05:53:01.403Z",
+      "isFeatured": true,
+      "description": "1 Month Discord Nitro ID pre-loaded with full Discord Nitro subscription and 2 server boosts. Custom emojis everywhere, HD stream quality, and 500MB upload size.",
+      "digitalKeys": [
+        "https://discord.gift/SAMPLE-NITRO-1M-001",
+        "https://discord.gift/SAMPLE-NITRO-1M-002"
+      ],
+      "deliveryType": "DIGITAL_LINK",
+      "reviewsCount": 541,
+      "originalPrice": 60,
+      "shortDescription": "1 Month Discord Nitro ID with 2x Server Boosts and custom perks."
+    },
+    {
+      "id": "prod-steam-ac",
+      "sku": "FM-STEAM-ACC-01",
+      "name": "Steam ac",
+      "slug": "steam-ac",
+      "tags": [
+        "Steam",
+        "Account",
+        "Gaming",
+        "Instant"
+      ],
+      "price": 39,
+      "stock": 15,
+      "rating": 4.9,
+      "status": "ACTIVE",
+      "category": "Gaming Stuff",
+      "imageUrl": "/images/steam.svg",
+      "createdAt": "2026-09-22T05:31:57.300Z",
+      "updatedAt": "2026-09-27T05:53:01.403Z",
+      "isFeatured": true,
+      "description": "Fresh Steam account with full access. Change email, password, and customize completely. No bans or restrictions.",
+      "digitalKeys": [
+        "STEAM:user_vault_01:pass_x99a",
+        "STEAM:user_vault_02:pass_k88b"
+      ],
+      "deliveryType": "ACCOUNT",
+      "reviewsCount": 219,
+      "originalPrice": 199,
+      "shortDescription": "Clean Steam account ready with instant full credentials access."
+    },
+    {
+      "id": "prod-spotify-promo-2m",
+      "sku": "FM-SPOT-PROMO-2M",
+      "name": "2m Spotify Promo Code",
+      "slug": "2m-spotify-promo-code",
+      "tags": [
+        "Spotify",
+        "Music",
+        "Promo Code",
+        "Sale"
+      ],
+      "price": 999,
+      "stock": 0,
+      "rating": 5,
+      "status": "OUT_OF_STOCK",
+      "category": "code/link",
+      "imageUrl": "/images/spotify.svg",
+      "createdAt": "2026-09-20T05:31:57.300Z",
+      "updatedAt": "2026-09-27T05:53:01.403Z",
+      "isFeatured": true,
+      "description": "Official 2-Month Spotify Premium promo code. Ad-free music listening, offline downloads, and high-fidelity streaming. Redeemable on official Spotify accounts.",
+      "digitalKeys": [],
+      "deliveryType": "DIGITAL_CODE",
+      "reviewsCount": 382,
+      "originalPrice": 9999,
+      "shortDescription": "2 Months Spotify Premium Promo Code for instant activation."
+    }
+  ],
+  "stockNotifications": [
+    {
+      "id": "notif-mul8vb4m-8jej",
+      "productId": "prod-spotify-promo-2m",
+      "productName": "2m Spotify Promo Code",
+      "email": "customer@gmail.com",
+      "createdAt": "2026-09-28T12:49:27.574Z",
+      "status": "PENDING"
+    }
+  ],
+  "orders": [
+    {
+      "id": "FM-2026-200877",
+      "orderNumber": "FM-2026-200877",
+      "customerName": "sdfghjhgfd",
+      "customerEmail": "kumarshukla.vikash@gmail.com",
+      "discordUsername": "sdfghhgfds",
+      "discordId": "sdfgbnbfdwr",
+      "customerNote": "fuvk u",
+      "items": [
+        {
+          "productId": "prod-nitro-boost-1y",
+          "name": "TEST",
+          "price": 1,
+          "quantity": 1,
+          "deliveryType": "AUTOMATIC",
+          "digitalKeysDelivered": [
+            "https://discord.gift/X892-ZPAQ-KLM9-1192-88VC"
+          ]
+        }
+      ],
+      "subtotal": 1,
+      "discount": 0,
+      "total": 1,
+      "currency": "INR",
+      "paymentMethod": "ZapPay UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "DELIVERED",
+      "deliveryStatus": "DELIVERED",
+      "zappayOrderId": "ZP1790563521893KWK4",
+      "zappayPaymentUrl": "https://zappay.shop/checkout.html?order_id=ZP1790563521893KWK4&amount=1&upi=7065207222%40fam&redirect_url=http%3A%2F%2Flocalhost%3A3000%2Ftrack-order%3ForderId%3DFM-2026-200877%26zp_order%3D&theme=ember&mname=FLIPKART%20MART",
+      "createdAt": "2026-09-28T02:45:22.289Z",
+      "updatedAt": "2026-09-28T02:46:05.506Z"
+    },
+    {
+      "id": "FM-2026-203437",
+      "orderNumber": "FM-2026-203437",
+      "customerName": "23456789",
+      "customerEmail": "kumarshukla.vikash@gmail.com",
+      "discordUsername": "23456789",
+      "discordId": "2345678",
+      "customerNote": "23456789",
+      "items": [
+        {
+          "productId": "prod-win11-pro",
+          "name": "Windows 11 Professional Retail License",
+          "price": 19.99,
+          "quantity": 1,
+          "deliveryType": "instant_key",
+          "digitalKeysDelivered": []
+        }
+      ],
+      "subtotal": 19.99,
+      "discount": 0,
+      "total": 20,
+      "currency": "INR",
+      "paymentMethod": "ZapPay UPI",
+      "paymentStatus": "PENDING",
+      "orderStatus": "PENDING_PAYMENT",
+      "deliveryStatus": "PENDING",
+      "zappayOrderId": "ZP17904885746900K4Z",
+      "zappayPaymentUrl": "https://zappay.shop/checkout.html?order_id=ZP17904885746900K4Z&amount=20&upi=7065207222%40fam&redirect_url=http%3A%2F%2Flocalhost%3A3000%2Ftrack-order%3ForderId%3DFM-2026-203437%26zp_order%3D&theme=ember&mname=FLIPKART%20MART",
+      "createdAt": "2026-09-27T05:56:15.052Z",
+      "updatedAt": "2026-09-27T05:56:15.052Z"
+    },
+    {
+      "id": "ORD-14438263",
+      "customerEmail": "test@example.com",
+      "customerName": "test",
+      "items": [
+        {
+          "productId": "prod-win11-pro",
+          "name": "Windows 11 Professional Retail License",
+          "price": 19.99,
+          "quantity": 1,
+          "digitalKeysDelivered": [
+            "W11P-VK7JG-NPHTM-C97JM-9MPGT"
+          ]
+        }
+      ],
+      "subtotal": 19.99,
+      "discount": 0,
+      "total": 19.99,
+      "paymentMethod": "ZapPay Instant",
+      "paymentStatus": "completed",
+      "createdAt": "2026-09-27T05:32:24.382Z"
+    },
+    {
+      "id": "ORD-882193",
+      "customerEmail": "alex.gamer@example.com",
+      "customerName": "Alex Rivera",
+      "items": [
+        {
+          "productId": "prod-steam-50",
+          "name": "Steam $50 Digital Wallet Gift Card",
+          "price": 46.5,
+          "quantity": 1,
+          "digitalKeysDelivered": [
+            "STEAM-50USD-PREV-SEED-KEY-001"
+          ]
+        }
+      ],
+      "subtotal": 46.5,
+      "discount": 0,
+      "total": 46.5,
+      "paymentMethod": "ZapPay Instant",
+      "paymentStatus": "completed",
+      "createdAt": "2026-09-25T05:31:57.300Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Nitro IDs",
+      "slug": "nitro-ids",
+      "description": "Pre-activated Discord Nitro Accounts & IDs",
+      "enabled": true
+    },
+    {
+      "id": "cat-2",
+      "name": "Gift Links",
+      "slug": "gift-links",
+      "description": "Official Discord 1-Month & 1-Year Nitro Gift Links",
+      "enabled": true
+    },
+    {
+      "id": "cat-3",
+      "name": "Server Boosts",
+      "slug": "server-boosts",
+      "description": "Level 3 Instant Server Boosts with 3-Month Warranty",
+      "enabled": true
+    },
+    {
+      "id": "cat-4",
+      "name": "Nitro Promo / Trial Claiming",
+      "slug": "nitro-promo",
+      "description": "Instant claim services for Xbox/Epic promos",
+      "enabled": true
+    },
+    {
+      "id": "cat-5",
+      "name": "Discord Members",
+      "slug": "discord-members",
+      "description": "High Quality Online & Offline Server Members",
+      "enabled": true
+    },
+    {
+      "id": "cat-6",
+      "name": "Server Setup",
+      "slug": "server-setup",
+      "description": "Custom Professional Community & Store Server Design",
+      "enabled": true
+    },
+    {
+      "id": "cat-7",
+      "name": "Custom Bot Setup",
+      "slug": "custom-bot-setup",
+      "description": "Ticketing, Payment & Security Bot Deployments",
+      "enabled": true
+    },
+    {
+      "id": "cat-8",
+      "name": "OWO Cash",
+      "slug": "owo-cash",
+      "description": "Instant Discord OWO Economy Currency Delivery",
+      "enabled": true
+    },
+    {
+      "id": "cat-9",
+      "name": "Streaming Premium",
+      "slug": "streaming-premium",
+      "description": "Spotify, Netflix & YouTube Premium Upgrades",
+      "enabled": true
+    },
+    {
+      "id": "cat-10",
+      "name": "Instagram Products",
+      "slug": "instagram-products",
+      "description": "Organic Followers, Likes & Engagement",
+      "enabled": true
+    },
+    {
+      "id": "cat-11",
+      "name": "Minecraft Products",
+      "slug": "minecraft-products",
+      "description": "Minecraft Full Access Accounts & Cape Codes",
+      "enabled": true
+    },
+    {
+      "id": "cat-12",
+      "name": "BGMI / Free Fire IDs",
+      "slug": "bgmi-free-fire-ids",
+      "description": "Mythic & Rare Skin Battle Royale Accounts",
+      "enabled": true
+    }
+  ],
+  "adminTokens": [
+    "adm_token_1790487238332_94845c4wm6e",
+    "fm_adm_1790488879483_9s8vj9sc",
+    "fm_adm_1790563377108_4ah9ayt1",
+    "fm_adm_1790600451526_mrpyfg2g"
+  ],
+  "settings": {
+    "storeName": "FLIPKART MART",
+    "storeDescription": "Premier digital marketplace for Discord Nitro, Server Boosts, Gaming Passes, and Instant 0.4s Automated Digital Delivery.",
+    "storeUrl": "https://flipkartmart.com",
+    "supportEmail": "support@flipkartmart.com",
+    "supportDiscord": "https://discord.gg/flipkartmart",
+    "announcementText": "⚡ FLIPKART MART: Instant 0.4s UPI Delivery via ZapPay • 100% Genuine Retail Guarantee",
+    "showAnnouncement": true,
+    "logo": "",
+    "favicon": "",
+    "browserTitle": "FLIPKART MART - Digital Marketplace & Instant Delivery",
+    "primaryColor": "#06b6d4",
+    "secondaryColor": "#3b82f6",
+    "accentColor": "#10b981",
+    "backgroundColor": "#020617",
+    "cardColor": "#0f172a",
+    "textColor": "#f8fafc",
+    "buttonColor": "#06b6d4",
+    "headerLogo": "",
+    "headerTitle": "FLIPKART MART",
+    "headerSubtitle": "Digital Goods & Key Vault",
+    "headerCtaText": "Browse Shop",
+    "headerCtaUrl": "/#shop",
+    "navItems": [
+      {
+        "id": "nav-1",
+        "label": "Storefront",
+        "url": "/#shop",
+        "enabled": true
+      },
+      {
+        "id": "nav-2",
+        "label": "Discord Nitro",
+        "url": "/#nitro",
+        "enabled": true
+      },
+      {
+        "id": "nav-3",
+        "label": "Server Boosts",
+        "url": "/#boosts",
+        "enabled": true
+      },
+      {
+        "id": "nav-4",
+        "label": "Track Order",
+        "url": "/track-order",
+        "enabled": true
+      },
+      {
+        "id": "nav-5",
+        "label": "FAQ",
+        "url": "/#faq",
+        "enabled": true
+      }
+    ],
+    "heroHeading": "Genuine Digital Goods & Gaming Passes.",
+    "heroSubheading": "Delivered Instantly to Your Screen & Email.",
+    "heroDescription": "Official Discord Nitro Gift Links, Server Boosts, Gaming Credits, and Software Keys. Pre-loaded into our cryptographic automated vault with instant ZapPay UPI checkout.",
+    "primaryBtnText": "Shop Instant Deals",
+    "primaryBtnUrl": "/#shop",
+    "secondaryBtnText": "Track Existing Order",
+    "secondaryBtnUrl": "/track-order",
+    "heroImage": "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=900&auto=format&fit=crop&q=80",
+    "badgeText": "⚡ 0.4s Instant Automated Delivery",
+    "enabledSections": {
+      "announcement": true,
+      "hero": true,
+      "featuredProducts": true,
+      "categories": true,
+      "popularProducts": true,
+      "whyChooseUs": true,
+      "howItWorks": true,
+      "faq": true,
+      "supportCta": true
+    },
+    "sectionHeadings": {
+      "featuredProducts": "Featured Digital Releases",
+      "categories": "Explore Categories",
+      "popularProducts": "Trending Software & Passes",
+      "whyChooseUs": "Why Flipkart Mart?",
+      "howItWorks": "How Instant Delivery Works",
+      "faq": "Frequently Asked Questions"
+    },
+    "sectionDescriptions": {
+      "featuredProducts": "Top rated genuine digital goods verified by thousands of customers.",
+      "categories": "Find exactly what you need across our diverse selection of digital items.",
+      "popularProducts": "Fastest-moving items with high stock ready for automatic dispatch.",
+      "whyChooseUs": "Built with speed, trust, and real automated inventory verification.",
+      "howItWorks": "Zero wait times: from checkout to active license in under a minute.",
+      "faq": "Everything you need to know about payments, delivery, and guarantees."
+    },
+    "footerLogo": "",
+    "footerHeading": "FLIPKART MART Digital Services",
+    "footerDescription": "Automated 24/7 digital fulfillment powered by ZapPay UPI. All keys guaranteed authentic with instant delivery.",
+    "copyrightText": "© 2026 FLIPKART MART. All rights reserved.",
+    "footerLinks": [
+      {
+        "label": "Shop Catalog",
+        "url": "/#shop"
+      },
+      {
+        "label": "Track Order",
+        "url": "/track-order"
+      },
+      {
+        "label": "Terms of Service",
+        "url": "/terms"
+      },
+      {
+        "label": "Privacy Policy",
+        "url": "/privacy"
+      }
+    ],
+    "discordLink": "https://discord.gg/flipkartmart",
+    "email": "support@flipkartmart.com",
+    "faqs": [
+      {
+        "id": "faq-1",
+        "question": "How fast is the digital delivery?",
+        "answer": "Delivery is 100% automated and instantaneous (under 0.4 seconds). Once your ZapPay UPI transaction confirms, your license keys or account credentials appear directly on your screen and are sent to your email.",
+        "category": "Delivery"
+      },
+      {
+        "id": "faq-2",
+        "question": "What payment methods do you accept?",
+        "answer": "We accept ZapPay UPI, allowing instant payments from GPay, PhonePe, Paytm, BHIM, and all Indian banking apps with 0% extra fees.",
+        "category": "Payments"
+      },
+      {
+        "id": "faq-3",
+        "question": "What if a key or account has an issue?",
+        "answer": "All our digital goods come with a 100% replacement guarantee. You can open a ticket on our Discord or contact support@flipkartmart.com with your Order ID for instant replacement.",
+        "category": "Warranty"
+      },
+      {
+        "id": "faq-4",
+        "question": "Can I retrieve my previously purchased keys?",
+        "answer": "Yes! Use the \"Track Order\" button in the navigation, enter your Order ID (FM-2026-XXXXXX) or your email, and your full digital key vault will be displayed.",
+        "category": "Orders"
+      }
+    ],
+    "zappay": {
+      "enabled": true,
+      "zapApiKeyMasked": "ZPPD...hhRSX",
+      "zapBaseUrl": "https://zappay-beta.vercel.app",
+      "zapWebhookUrl": "/api/payments/zappay/webhook",
+      "gatewayMode": "live",
+      "currency": "INR",
+      "autoDeliveryEnabled": true
+    }
+  },
+  "deletedProductIds": [
+    "prod-mul9a1y7-976g"
+  ]
+}

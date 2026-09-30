@@ -1,0 +1,6 @@
+{
+  "name": "ZapStore - Digital Goods & Instant Delivery",
+  "description": "Automated digital marketplace with instant inventory delivery, ZapPay & UPI payments, stock management, AI confirmation emails, and admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
